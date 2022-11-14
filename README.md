@@ -27,4 +27,9 @@ PGADMIN :
 
 ![image](https://user-images.githubusercontent.com/115996823/201757957-fffa8296-91ac-4aa0-9cb6-3f2ed3ed3158.png)
 
+6) Lancer l’application app.py dans le ENTRYPOINT grâce à la commande python
+
+![image](https://user-images.githubusercontent.com/115996823/201765710-4b4652a7-4d57-40cc-8aed-856b01eb9785.png)
+![image](https://user-images.githubusercontent.com/115996823/201765724-79800a78-fd06-4aca-968a-1d11361de5b6.png)
+
 
