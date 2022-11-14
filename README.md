@@ -30,8 +30,13 @@ PGADMIN :
 6) Lancer l’application app.py dans le ENTRYPOINT grâce à la commande python
 
 ![image](https://user-images.githubusercontent.com/115996823/201765710-4b4652a7-4d57-40cc-8aed-856b01eb9785.png)
-![image](https://user-images.githubusercontent.com/115996823/201765724-79800a78-fd06-4aca-968a-1d11361de5b6.png)
-![image](https://user-images.githubusercontent.com/115996823/201765852-3fea4159-6687-4a26-b2ab-e8c3ee9d641e.png)
+![image](https://user-images.githubusercontent.com/115996823/201777537-9a88954d-32b1-462d-a650-2e71a4e68038.png)
+![image](https://user-images.githubusercontent.com/115996823/201777554-27bbddeb-0017-443d-85c3-78e53a769d74.png)
+![image](https://user-images.githubusercontent.com/115996823/201777562-cb751dac-78e3-4624-9ab2-aa5bbe2af4b9.png)
+
+
+
+
 
 
 
