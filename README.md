@@ -14,9 +14,11 @@ I) Conteneurisation de l’application web
 
 5) Créer les variables d’environnement ODOO_URL et PGADMIN_URL afin de permettre la définition de ces url lors du lancement du container
 
+ODOO_URL :
+
 ![image](https://user-images.githubusercontent.com/115996823/201757903-83d80dcc-5e2f-4dd7-9d35-98c6cd87ab78.png)
 
-PGADMIN
+PGADMIN :
 
 ![image](https://user-images.githubusercontent.com/115996823/201757957-fffa8296-91ac-4aa0-9cb6-3f2ed3ed3158.png)
 
