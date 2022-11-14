@@ -1,5 +1,7 @@
 1) Conteneurisation de l’application web
 
 création de l'image
-![image](https://user-images.githubusercontent.com/115996823/201755813-a7d0a98a-70c7-4444-ba5f-1cbc61a85cb8.png)
+![image](https://user-images.githubusercontent.com/115996823/201756623-0dfaccc1-0aad-4b00-aa6b-64621ac71aee.png)
+
+
 
