@@ -59,7 +59,7 @@ Créons une interface web pour notre registre privé :
 
 ![image](https://user-images.githubusercontent.com/115996823/201907940-0e681c65-477e-4047-b6db-ecbc3e48631d.png)
 
-III)docker-compose
+III) Docker-compose
 
 ![image](https://user-images.githubusercontent.com/115996823/201911608-359e695e-45b8-42c4-ab25-79a10ec40456.png)
 
