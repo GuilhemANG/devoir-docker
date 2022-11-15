@@ -35,7 +35,7 @@ PGADMIN :
 ![image](https://user-images.githubusercontent.com/115996823/201777562-cb751dac-78e3-4624-9ab2-aa5bbe2af4b9.png)
 ![image](https://user-images.githubusercontent.com/115996823/201778044-264bff39-c20c-4490-820c-babf6109b4b7.png)
 
-sdsd
+Docker Registry
 
 
 
