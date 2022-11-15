@@ -53,6 +53,12 @@ Créons une interface web pour notre registre privé :
 
 ![image](https://user-images.githubusercontent.com/115996823/201872294-1a30a2df-e594-49e6-acf4-ff5aa4e625cb.png)
 
+![image](https://user-images.githubusercontent.com/115996823/201907866-db0ae763-926b-4718-bed0-36d0bce45745.png)
+
+![image](https://user-images.githubusercontent.com/115996823/201907891-bf72fe96-ecdf-4c47-a65e-86b8ec9bf39a.png)
+
+![image](https://user-images.githubusercontent.com/115996823/201907940-0e681c65-477e-4047-b6db-ecbc3e48631d.png)
+
 
 
 
