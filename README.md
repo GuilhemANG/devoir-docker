@@ -35,7 +35,19 @@ PGADMIN :
 ![image](https://user-images.githubusercontent.com/115996823/201777562-cb751dac-78e3-4624-9ab2-aa5bbe2af4b9.png)
 ![image](https://user-images.githubusercontent.com/115996823/201778044-264bff39-c20c-4490-820c-babf6109b4b7.png)
 
-Docker Registry
+II) Docker Registry
+
+1) Mettez en place un registre privé avec docker registry.
+
+![image](https://user-images.githubusercontent.com/115996823/201862078-0de98866-fd89-4226-843a-482053bb5490.png)
+
+2) Vous pourrez rajouter une interface web à ce registre
+
+![image](https://user-images.githubusercontent.com/115996823/201862158-b6ddc09d-20dc-4bd2-9714-a73fbbba8e04.png)
+
+Créons une interface web pour notre registre privé :
+
+3) Une fois le test terminé, supprimez le container test et poussez votre image sur votre registre privé Docker, et aussi sur le registre dockerhub.
 
 
 
