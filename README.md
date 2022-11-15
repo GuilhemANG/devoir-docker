@@ -57,6 +57,3 @@ Créons une interface web pour notre registre privé :
 
 
 
-
-
-
