@@ -47,7 +47,11 @@ II) Docker Registry
 
 Créons une interface web pour notre registre privé :
 
+![image](https://user-images.githubusercontent.com/115996823/201872194-ef3734b2-86ce-44bc-ae16-2e0f9eaa31c5.png)
+
 3) Une fois le test terminé, supprimez le container test et poussez votre image sur votre registre privé Docker, et aussi sur le registre dockerhub.
+
+![image](https://user-images.githubusercontent.com/115996823/201872294-1a30a2df-e594-49e6-acf4-ff5aa4e625cb.png)
 
 
 
